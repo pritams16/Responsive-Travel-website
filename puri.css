@@ -1,0 +1,18 @@
+header {
+    height: 10rem;
+    /* width: 10rem; */
+    font-size: 5rem; /* Increase the font size */
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    border: 1px solid black; /* Just for visualization */
+  }
+
+  p{
+    margin-left: 3rem;
+    margin-right: 3rem;
+  }
+
+  .aboutpuri{
+    background-image: url();
+  }
